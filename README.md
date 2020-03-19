@@ -5,7 +5,7 @@ A [*Blender*](http://blender.org) scene to quickly and easily make video reviews
 
 ## How to use
 
-Download the Blender **.blend* file. There's no need to get the script as it is already included in the *.blend* file itself.
+[Download the Blender **.blend* file](https://github.com/Rainbox-dev/DuBLF_DuReview/raw/master/DuReview.blend). There's no need to get the script as it is already included in the *.blend* file itself.
 
 ![](https://raw.githubusercontent.com/Rainbox-dev/DuBLF_DuReview/master/src-docs/allow_execution.png)  
 Don't worry, you can (and you need to) allow the execution of the script! If you're worried, the script is available here, you'll see it's safe.
