@@ -1,5 +1,5 @@
 # DuBLF_DuReview
-A blender scene to quickly and easily make video reviews, using annotations
+A [*Blender*](http://blender.org) scene to quickly and easily make video reviews, using annotations
 
 ![](https://raw.githubusercontent.com/Rainbox-dev/DuBLF_DuReview/master/src-docs/screenshot.png)
 
